@@ -1,0 +1,14 @@
+Link to Dataset: https://ourworldindata.org/covid-deaths
+
+
+Step 1: Cleaning and filter data in dataset including:
+		- Filter data to only from 2020-01-01 to 2022-12-31 (Filter/Sort)
+		- Check/Remove duplication (Remove Duplicates function)
+		- Format date column and any number columns 
+		- Fill 'null' for blank cells in any text/string columns, and 0 for any int/float columns (this help in import CSV file to MySQL through load 			data infile process)
+Step 2: Seperate dataset into 2 *csv files: covid_death and covid_vaccination (to practice joining table and create viewing in MySQL)
+Step 3: Load 2 *csv files to MySQL and start doing data exploration.
+Step 4: Export any table data needed from MySQL to Excel
+Step 5: Import Excel files to Tableu for visualization
+
+Link to tableu project: https://public.tableau.com/app/profile/duc.le7856/viz/CovidDataproject_16851169537980/Dashboard1
