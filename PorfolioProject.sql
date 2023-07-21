@@ -1,6 +1,6 @@
 /*
 Covid 2020-2022 Data Exploration 
-Skills used: Joins, CTE's, Windows Functions, Aggregate Functions, Creating Views
+Skills used: Joins, Aggregate Functions, Alias, Creating Views
 */
 
 Use sql_test;
